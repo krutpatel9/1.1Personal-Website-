@@ -1,0 +1,31 @@
+body  {
+  background-image: url(palace.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1,
+h2 {
+  text-align: center;
+  text-decoration-color: white;
+}
+
+.nav-links {
+  width: 800px
+  text-align: center;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.nav-link {
+  border: 4px solid gray;
+  display: inline-block;
+  width: 80px;
+  text-align: center;
+}
+
+.nav-link a {
+  text-decoration: none;
+  color: gray;
+  font-style: oblique;
+}
